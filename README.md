@@ -8,7 +8,6 @@ The **AI-Driven Financial Newsletter System** is an advanced multi-agent platfor
 ### 1. Researcher Agent: The Financial Analyst
 - **Function:** Scours global financial markets, economic reports, and news sources to extract critical insights.
 - **Capabilities:**
-  - Integrates with APIs (e.g., Yahoo Finance, Alpha Vantage) for real-time market data.
   - Uses NLP to analyze sentiment and trends from financial news.
   - Generates structured reports summarizing key financial events and trends.
 
